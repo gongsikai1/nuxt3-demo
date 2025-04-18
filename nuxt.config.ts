@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       apiHost: 'api.demo.com',
-      apiPort: 3003
+      apiPort: 3001
     }
   },
   devtools: { enabled: true },
